@@ -1,2 +1,2 @@
-# -AUTENTICA-O-JWT-EM-API-REST
+#API-REST-TOKEN-DJANGO
 Autenticção de API Rest do Django com Token (JWT)
